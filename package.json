@@ -1,6 +1,6 @@
 {
   "name": "markdown-note-extensions",
-  "displayName": "markdown-note-extensions",
+  "displayName": "Markdown Note Extensions",
   "description": "Everything you need to write the note in markdown.",
   "version": "1.0.0",
   "engines": {
@@ -21,11 +21,13 @@
     "jebbs.markdown-extended",
     "vsls-contrib.gitdoc",
     "bierner.markdown-footnotes",
-    "Gruntfuggly.todo-tree"
+    "Gruntfuggly.todo-tree",
+    "luohuidong.markdowncodeblock"
   ],
   "publisher": "luohuidong",
   "repository": {
     "type": "git",
     "url": "https://github.com/luohuidong/markdown-note-extensions"
-  }
+  },
+  "icon": "./icon.png"
 }

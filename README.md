@@ -17,3 +17,4 @@ Everything you need to write the note in markdown.
 - GitDoc
 - Markdown Footnotes
 - Todo Tree
+- Markdown Code Block
