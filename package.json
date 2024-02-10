@@ -1,12 +1,27 @@
 {
-  "name": "markdown-extensions",
-  "displayName": "markdown-extensions",
+  "name": "markdown-note-extensions",
+  "displayName": "markdown-note-extensions",
   "description": "Everything you need to write the note in markdown.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.86.0"
   },
   "categories": [
     "Extension Packs"
   ],
+  "extensionPack": [
+    "foam.foam-vscode",
+    "yzhang.markdown-all-in-one",
+    "esbenp.prettier-vscode",
+    "bierner.emojisense",
+    "bierner.markdown-emoji",
+    "bierner.markdown-mermaid",
+    "pomdtr.excalidraw-editor",
+    "alefragnani.project-manager",
+    "jebbs.markdown-extended",
+    "vsls-contrib.gitdoc",
+    "bierner.markdown-footnotes",
+    "Gruntfuggly.todo-tree"
+  ],
+  "publisher": "luohuidong"
 }
