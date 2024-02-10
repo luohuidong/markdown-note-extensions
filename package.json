@@ -23,5 +23,9 @@
     "bierner.markdown-footnotes",
     "Gruntfuggly.todo-tree"
   ],
-  "publisher": "luohuidong"
+  "publisher": "luohuidong",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luohuidong/markdown-note-extensions"
+  }
 }
