@@ -12,9 +12,7 @@ Everything you need to write the note in markdown.
 - Markdown Preview Mermaid Support
 - Mermaid Markdown Syntax Highlighting
 - Excalidraw
-- Project Manager
 - Markdown Extended
-- GitDoc
 - Markdown Footnotes
 - Todo Tree
 - Markdown Code Block

@@ -4,6 +4,10 @@ All notable changes to the "markdown-extensions" extension pack will be document
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.0]
+
+- Remove "Project Manager" and "GitDoc"
+
 ## [1.1.0]
 
 - Add Markdown Code Block
