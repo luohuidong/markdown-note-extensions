@@ -2,7 +2,7 @@
   "name": "markdown-note-extensions",
   "displayName": "Markdown Note Extensions",
   "description": "Everything you need to write the note in markdown.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "engines": {
     "vscode": "^1.86.0"
   },
